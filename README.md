@@ -453,16 +453,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots on serial monitor   :
- 
- 
- ![board img](a1.jpeg)
-![board img](a2.jpeg)
-![board img](o1.jpeg)
-![board img](o2.jpeg)
- ## Circuit board :
+ ![image](https://github.com/Sacitharan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/112890299/2c3762d7-5044-4828-a157-3dae72ae95bd)
+![image](https://github.com/Sacitharan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/112890299/56b44e18-11f3-4141-b2d7-0d8aaad7422c)
+![image](https://github.com/Sacitharan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/112890299/815616f0-a429-4ecd-89cc-c81a070aa0b7)
+![image](https://github.com/Sacitharan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/112890299/60cd1852-e2b7-400b-a7eb-bf26ab624eec)
 
-![board img](b1.jpeg)
-![board img](b2.jpeg)
+
+ ## Circuit board :
+![image](https://github.com/Sacitharan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/112890299/be246513-c09d-4ec0-8025-b53483ea993a)
+![image](https://github.com/Sacitharan/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/112890299/ddb8ddcd-17f7-4857-8d1f-fd737b8d11da)
+
  
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
